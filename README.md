@@ -7,12 +7,11 @@
 - 1- E-mail : Rune.serruys@telenet.be
 - 2- Insta : https://www.instagram.com/_rune_s._/
 - 3- Facebook : https://www.facebook.com/rune.serruys
-- 4- LinkedIn : https://www.linkedin.com/in/rune-serruys-99b957278/
-  
 
-
-                    
-
+- 📫 Extra Socials
+- 1- LinkedIn : https://www.linkedin.com/in/rune-serruys-99b957278/
+- 2- CodePen : https://codepen.io/RuneSerruys                    
+- 3- 
 
 <!---
 RuneSerruys/RuneSerruys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
