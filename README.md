@@ -1,13 +1,13 @@
 👋 Hi, I’m @RuneSerruys
   
-- 👀 I’m interested in Sports, Coding ...
-- 🌱 I’m currently learning Computer Sciences at the VUB, Brussels .
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Sports, Robotics, AI, Website Developpement ...
+- 🌱 I’m currently learning Computer Sciences at the VUB, Brussels.
+- 💞️ I’m looking to collaborate on Website Developpement.
   
 📫 How to reach me
-- 1- E-mail : Rune.serruys@telenet.be
-- 2- Insta : https://www.instagram.com/_rune_s._/
-- 3- Facebook : https://www.facebook.com/rune.serruys
+- 1- By mail :
+   E-mail : Rune.serruys@telenet.be
+   G-mail : Rune.serruys@gmail.com
 
 📫 Extra Socials
 - 1- LinkedIn : https://www.linkedin.com/in/rune-serruys-99b957278/
